@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Pedro Simão Lemos Silva
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th January 1999
     - name: Languages
-      value: English, German
+      value: Portuguese, English
 
 - title: Education
   type: time_table
